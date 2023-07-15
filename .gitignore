@@ -1,0 +1,5 @@
+# Installed packages.
+vcpkg_installed/
+
+# Build artifacts.
+build/
