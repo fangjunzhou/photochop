@@ -3,3 +3,6 @@ vcpkg_installed/
 
 # Build artifacts.
 build/
+
+.idea/
+cmake-build-debug-mingw/
