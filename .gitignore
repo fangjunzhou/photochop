@@ -4,5 +4,7 @@ vcpkg_installed/
 # Build artifacts.
 build/
 
+# Miscellaneous files.
+.cache/
 .idea/
 cmake-build-debug-mingw/
